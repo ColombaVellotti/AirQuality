@@ -1,5 +1,8 @@
 # AirQuality
- JS Advanced Project for Start2Impact by Colomba Vellotti<br>
+ JS Advanced Project for Start2Impact by Colomba Vellotti
+ 
+![mainpage](https://user-images.githubusercontent.com/81517714/151956184-4792e7a1-a5f3-4e10-9088-d91ee549d347.png)
+
  A simple app to find out the air quality in any city.
 Click here to see the app : https://airqualitycolombavellotti.netlify.app/
 
